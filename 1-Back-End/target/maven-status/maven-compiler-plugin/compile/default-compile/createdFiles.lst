@@ -1,2 +1,5 @@
 github/com/jhowilbur/WilburApplication.class
+github/com/jhowilbur/entities/OrderStatus.class
 github/com/jhowilbur/config/SecurityConfig.class
+github/com/jhowilbur/entities/Product.class
+github/com/jhowilbur/entities/Order.class

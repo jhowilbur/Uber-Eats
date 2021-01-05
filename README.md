@@ -1,12 +1,8 @@
 # Uber Eats Example
 complete project simulating how Uber Eats works
 
-- back-end (Java / Spring-Boot) 
-  
-- front-end (ReactJs) 
-  
-and 
-
+- back-end (Java / Spring-Boot)
+- front-end (ReactJs)  
 - Mobile
 
 ##### Leveling: back end, front end, standard layers, MVC, REST

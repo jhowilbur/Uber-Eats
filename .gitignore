@@ -1,3 +1,4 @@
-/.idea/
-/1-Back-End/.idea/
+/.idea/*
+/1-Back-End/.idea/*
 /1-Back-End/1-Back-End.iml
+/1-Back-End/target/*

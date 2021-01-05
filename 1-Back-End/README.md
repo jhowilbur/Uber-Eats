@@ -3,11 +3,13 @@
 
 Welcome to Back-End Session, hier I'm show you the structure and details about the darkness side in this project hahaha
 
+-------------------------
+
 ![3](https://user-images.githubusercontent.com/59379254/103615178-e11c6800-4f08-11eb-9c72-75c64405859d.png)
 ![1](https://user-images.githubusercontent.com/59379254/103615180-e1b4fe80-4f08-11eb-8987-080de893bd34.png)
 ![2](https://user-images.githubusercontent.com/59379254/103615177-e083d180-4f08-11eb-858f-08dbecf40a29.png)
 
-##Details
+## Details
 ### Domain model
 ![modelo-conceitual](https://user-images.githubusercontent.com/59379254/103614771-242a0b80-4f08-11eb-9c73-deff3f990b48.png)
 
