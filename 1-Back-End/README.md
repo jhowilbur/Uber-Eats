@@ -40,6 +40,13 @@ Welcome to Back-End Session, hier I'm show you the structure and details about t
     - Create app and provision Postgres
     - Create remote database
     - Run commands on Heroku CLI
+  
+```
+heroku login
+heroku git:remote -a <nome-do-app>
+git remote -v
+git subtree push --prefix 1-Back-End heroku master  
+```
 
 ---------------
 
