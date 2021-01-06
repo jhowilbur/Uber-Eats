@@ -24,4 +24,14 @@ developed with the best current market practices and frameworks for java.
 for details about the project, access the README folder:
 - 1-Back-End
 
+README for Back-End contains:
+- domain model
+- Use case I/O (in text description)
+- steps
+- and much more...
+
 ## 2- Front-End ~ ReactJs
+
+
+README for Back-End contains:
+- Wireframe (screen model)

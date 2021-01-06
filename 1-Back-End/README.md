@@ -47,6 +47,22 @@ run the command below to initialize:
 mvn spring-boot:run
 ```
 
+---------------
+
+## Use case (I/O)
+### Register Order
+1. [OUT] The system shows a listing with the name, price, description and photo of all products, ordered by name.
+1. [IN] The customer selects the desired products and informs the delivery location of the order.
+1. [OUT] The system informs the order code.
+
+### Deliver Order
+1. [OUT] The system informs a listing containing code, total amount, time and items, from pending orders, ordered and from oldest to most recent.
+1. [IN] The delivery person selects an order.
+1. [OUT] The system informs a map with the route to the delivery location.
+1. [IN] The delivery person informs that the order has been delivered.
+
+---------------
+
 ## Endpoints
 - [GET] /products
 - [GET] /orders
