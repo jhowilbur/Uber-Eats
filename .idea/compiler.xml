@@ -7,10 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="1-Back-End" />
+        <module name="Uber-Eats-Example" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="1-Back-End" target="11" />
+      <module name="Uber-Eats-Example" target="11" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Uber-Eats-Example" options="-parameters" />
+    </option>
   </component>
 </project>

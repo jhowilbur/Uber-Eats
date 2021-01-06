@@ -46,3 +46,9 @@ run the command below to initialize:
 ```
 mvn spring-boot:run
 ```
+
+## Endpoints
+- [GET] /products
+- [GET] /orders
+- [POST] /orders
+- [PUT] /orders/{id}/delivered

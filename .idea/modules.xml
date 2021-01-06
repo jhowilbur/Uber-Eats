@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-Back-End/1-Back-End.iml" filepath="$PROJECT_DIR$/1-Back-End/1-Back-End.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Semana-Dev-Superior.iml" filepath="$PROJECT_DIR$/.idea/Semana-Dev-Superior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-Back-End/Uber-Eats-Example.iml" filepath="$PROJECT_DIR$/1-Back-End/Uber-Eats-Example.iml" />
     </modules>
   </component>
 </project>
