@@ -28,7 +28,8 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter
             http.headers().frameOptions().disable();
         }
 
-        http.headers().frameOptions().disable();
+        // if your h2 doesn't appears interfaces
+//        http.headers().frameOptions().disable();
 
         http.cors().and().csrf().disable();
         http.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
