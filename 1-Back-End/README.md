@@ -40,12 +40,6 @@ Welcome to Back-End Session, hier I'm show you the structure and details about t
     - Create app and provision Postgres
     - Create remote database
     - Run commands on Heroku CLI
-  
-## How to run:
-run the command below to initialize:
-```
-mvn spring-boot:run
-```
 
 ---------------
 
@@ -68,3 +62,20 @@ mvn spring-boot:run
 - [GET] /orders
 - [POST] /orders
 - [PUT] /orders/{id}/delivered
+
+---------------
+
+## Insert database
+In /src/main/resources/ 
+- for testing the h2 automatically take the data.sql file and create the necessary data
+- for dev mode take comments contained in src/main/resources/application-dev.properties to generate a .sql with ready scripts, 
+  or get the ready script with the name create.sql.
+  And then take the script contained in data.sql and insert the values in the database 
+
+## How to run:
+run the command below to initialize:
+
+```
+mvn spring-boot:run
+```
+
