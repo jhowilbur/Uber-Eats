@@ -34,6 +34,7 @@ README for Back-End contains:
 
 ## 2- Front-End ~ ReactJs
 
+https://uber-eats-example-wilbur.netlify.app/
 
-README for Back-End contains:
-- Wireframe (screen model)
+for details about the project, access the README folder:
+- 2-Front-End
